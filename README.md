@@ -1,6 +1,4 @@
-### Olá, eu sou a Elane ˆ-ˆ
-- 🔭 Apelido: Pequena Vênus
-- ⚡ Cursando: Técnico em Informática
+## Olá, eu sou a Elane ˆ-ˆ
 <div align="center">
   <a href="https://github.com/ElaneSz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaneSz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
