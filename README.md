@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ElaneSz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaneSz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaneSz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="160"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaneSz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Elane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
