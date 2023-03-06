@@ -1,7 +1,7 @@
 ## Olá, eu sou a Elane ˆ-ˆ
 <div align="center">
   <a href="https://github.com/ElaneSz">
-  <img height="250em" width="250em" src="https://github-readme-stats.vercel.app/api?username=elanesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250" width="250" src="https://github-readme-stats.vercel.app/api?username=elanesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanesz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
