@@ -1,4 +1,4 @@
-## Olá, eu sou a Elane ✨
+## Olá, eu sou a Elane 
 
 <div align="center">
   <a href="https://github.com/ElaneSz">
@@ -42,8 +42,8 @@
 
 ---
 
-## 🐍 Animação Snake
+## Animação Snake
 
 <p align="center">
-  <img src="https://github.com/ElaneSz/ElaneSz/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/ElaneSz/ElaneSz/blob/main/docs/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </p>
