@@ -1,4 +1,8 @@
-## Olá, eu sou a Elane 
+## Olá! Sou a Elane Souza
+
+#### Apaixonada por tecnologia e em constante evolução acadêmica. Minha jornada começou no IFC - Campus Camboriú, onde me formei como Técnica em Informática, e hoje sigo aprofundando meus conhecimentos no Bacharelado em Ciência da Computação na UDESC.
+#### 🧠 Áreas de interesse: Inteligência Artificial, Ciência de Dados e Web Development.
+#### 🛠️ No que estou trabalhando: Explore meus repositórios para ver meus projetos e estudos recentes!
 
 <div align="center">
   <a href="https://github.com/ElaneSz"> 
