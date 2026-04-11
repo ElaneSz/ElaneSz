@@ -37,22 +37,6 @@
 
 ---
 
-### 🌎 Onde me encontrar:
-
-<div> 
-  <a href="https://instagram.com/elane_olivr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.twitch.tv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElaneSZ/ElaneSZ/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElaneSZ/ElaneSZ/output/pacman-contribution-graph.svg">
